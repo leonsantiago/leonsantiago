@@ -12,7 +12,7 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonsantiago&theme=slateorange&show_icons=true)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonsantiago&show_icons=true&hide=prs,contribs&count_private=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonsantiago&count_private=true&show_icons=true&hide=prs,contribs&count_private=true&theme=onedark" />
 
 <!--
 **leonsantiago/leonsantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
