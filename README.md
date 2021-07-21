@@ -9,9 +9,10 @@
 
 [Instagram](https://www.instagram.com/akhenaleon/)
 
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonsantiago&count_private=true&theme=slateorange&show_icons=true)
-  <a href="#">
+<a href="#" style="width: 50%">
+ (https://github-readme-stats.vercel.app/api?username=leonsantiago&count_private=true&theme=slateorange&show_icons=true)
+</a>
+<a href="#" style="width: 50%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonsantiago&hide=ShaderLab,HLSL&layout=compact&theme=onedark" />
 </a>
 
