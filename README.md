@@ -9,7 +9,7 @@
 
 [Instagram](https://www.instagram.com/akhenaleon/)
 
-<div style="box-shadow: 1px 1px 10px 1px black">
+<div style="box-shadow: 1px 1px 10px 1px black important!">
   <a href="#" style="width: 50%">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonsantiago&count_private=true&theme=slateorange&show_icons=true" />
   </a>
