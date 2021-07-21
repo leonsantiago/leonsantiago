@@ -11,6 +11,9 @@
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonsantiago&count_private=true&theme=slateorange&show_icons=true)
+  <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonsantiago&hide=ShaderLab,HLSL&layout=compact&theme=onedark" />
+</a>
 
   
 
