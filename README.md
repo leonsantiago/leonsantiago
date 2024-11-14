@@ -1,5 +1,4 @@
 ### Hi there 👋
-🔭 I’m currently working on Binomio UY
 
 🔭 Volunteer Ruby Developer on [Crowdfrica](https://www.crowdfrica.org/)
 
