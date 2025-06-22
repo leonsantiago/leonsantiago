@@ -5,6 +5,8 @@
 ----
 
 [LinkedIN](https://www.linkedin.com/in/leon-santiago/)
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-orange?logo=gitlab)](https://gitlab.com/santiago.leon1)
+
 
 <div style="box-shadow: 1px 1px 10px 1px black important!">
   <a href="#" style="width: 50%">
